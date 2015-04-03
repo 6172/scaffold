@@ -1,0 +1,22 @@
+{
+  "name": "scaffold",
+  "version": "0.0.1",
+  "homepage": "https://github.com/6172/scaffold",
+  "authors": [
+    "nealzhu <nealzhuqian@163.com>"
+  ],
+  "description": "前端小项目脚手架",
+  "keywords": [
+    "快速上手",
+    "模块化开发"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
